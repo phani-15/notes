@@ -1,5 +1,5 @@
 import React from 'react'
-import Login from './components/login';
+import Login from './components/Login'
 import Signup from './components/Signup';
 import Home from './components/Home';
 import Change from './components/Change';
