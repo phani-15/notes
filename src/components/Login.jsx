@@ -72,6 +72,8 @@ export default function Login() {
         <p className="text-center mt-4">
           Don't have an account?{" "}
           <span
+
+          
             onClick={() => navigate("/signup")}
             className="text-blue-500 cursor-pointer"
           >
